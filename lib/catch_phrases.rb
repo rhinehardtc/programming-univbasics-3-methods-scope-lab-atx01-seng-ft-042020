@@ -12,5 +12,8 @@ def toadstool
 end
 #
 
+#
 def link
-  phrase
+  phrase = "Squeewoo"
+end
+#
